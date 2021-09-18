@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-image: url("carchat.jpeg");
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-position-x: center;
+	background-position-y: top;
+}
+
+h3 {
+    color: whitesmoke;
+}
